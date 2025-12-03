@@ -1,6 +1,10 @@
-# Email Verification Service
+# MailConfirm
 
 A professional email verification service built with Quarkus that provides opt-in email confirmation functionality.
+
+[![GitHub](https://img.shields.io/badge/GitHub-codeneuss%2Fmailconfirm-blue?logo=github)](https://github.com/codeneuss/mailconfirm)
+[![Quarkus](https://img.shields.io/badge/Quarkus-3.16.3-blue?logo=quarkus)](https://quarkus.io)
+[![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)](https://openjdk.org)
 
 ## Features
 
